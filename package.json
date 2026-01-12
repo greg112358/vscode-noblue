@@ -3,7 +3,7 @@
   "displayName": "No Blue",
   "description": "A dark theme with an orange color palette and no blue. Black background, orange syntax, silver primitives.",
   "version": "1.0.0",
-  "publisher": "Gregory N. Walker",
+  "publisher": "gregory-n-walker",
   "engines": {
     "vscode": "^1.60.0"
   },
